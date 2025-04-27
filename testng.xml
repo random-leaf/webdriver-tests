@@ -7,8 +7,6 @@
 
 	    <class name="com.leaftaps.testcases.TC001_JustLogin"/>
 	    <class name="com.leaftaps.testcases.LoginChrome"/>
-	    <!-- 	<class name="com.leaftaps.testcases.LoginChrome"/>  -->
-	    <class name="com.leaftaps.testcases.Login"/>
 	   
     </classes>
   </test> 
